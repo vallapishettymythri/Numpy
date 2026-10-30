@@ -1,0 +1,27 @@
+Numpy-
+Numerical Python
+Numpy is a core library in python. 
+Numpy is extension to the higher dimensional array.
+Numpy is fixed size.
+It is very efficient than list.
+
+Array- Array is a collection of homogenous kind of data 
+it will contain similar type of data.
+
+[1,2,3,4,5,6]-->1D array which is also called as vector.
+Vector- Is a quantity which is having magnitude as well as 
+direction.
+
+syntax- 
+import numpy as np
+
+
+How to create numpy array manually?
+array_name=np.array([item1,item2....itemn])
+
+np.array([])- always takes the list as a argument.
+
+Why is NumPy Faster Than Lists?
+NumPy arrays are stored at one continuous place in memory 
+unlike lists, so processes can access and manipulate them 
+very efficiently.List randomly stores in the memory.
